@@ -44,11 +44,13 @@ Este projeto serviu como um laboratório prático de engenharia de dados, modela
 
 ---
 
+
+
 ## ⚙️ Como Instalar e Executar o Projeto
 
 Siga os passos abaixo para rodar o projeto localmente na sua máquina:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/futebol-ev-analyzer.git](https://github.com/SEU-USUARIO/futebol-ev-analyzer.git)
+   git clone git@github.com:Rodrigo0024/futebol-ev-analyzer.git
    cd futebol-ev-analyzer
