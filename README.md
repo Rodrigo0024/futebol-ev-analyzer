@@ -54,3 +54,6 @@ Siga os passos abaixo para rodar o projeto localmente na sua máquina:
    ```bash
    git clone git@github.com:Rodrigo0024/futebol-ev-analyzer.git
    cd futebol-ev-analyzer
+2. **Instale as dependências necessárias:**  
+pip install -r requirements.txt
+   
